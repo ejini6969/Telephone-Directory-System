@@ -1,0 +1,29 @@
+Employee id	Employee name		Telephone number	Department name
+1		Alexander Brooke		1364		IT
+2		Jasmine Koo Chu Xing		6529		Student service
+3		Nurul binti Jahini		6781		Bursary
+4		Rahinma bin Yusof		4572		Accounting
+5		Alexander Tan Choo Hao		1563		Student service
+6		Basturi Singh Kaal		1870		IT
+7		Selvaraja Satanam		5619		Student service
+8		Irshan Ahmed Shah		9247		Bursary
+9		Desmond Lee Meng Kiat		6336		Accounting
+10		Jason Ng Wei Chin 		2491		Accounting
+11		Raymond Chia Mayana		3457		Admin
+12		Azmin bin Rahman		3586		IT
+13		Cynhia A/L Balan		7610		Student service
+14		Steven Liew Chang		3485		Bursary
+15		Jerry Soh Goh Ling		4981		Admin
+16		Sharvin bin Mahmud		6703		Bursary
+17		Preeta Ghana Malifa		8714		Student service
+18		Muhammad Elandas		7193		Admin
+19		Fahizah binti Nasir		6704		IT
+20		Ganarahman Syah Ali		4892		Admin
+21		Marcus Lai Cheng Yong		2956		Admin
+22		Edwin Yong Zu Wei		1678		IT
+23		Sarah binti Musa		8604		Bursary
+24		Gilesh Kaur Yusof		2395		Accounting
+25		Jennifer Tan Mei Ling		7568		Accounting
+26		Mushfiquor Abdul Ahman		1872		Admin
+27		Wingolong Thaimupam		8247		Bursary
+28		Justin Ryle Yang		2560		IT
